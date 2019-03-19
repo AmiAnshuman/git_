@@ -1,0 +1,13 @@
+git --version
+git config --global ser.name "nkdifln"
+git config --global user.email "uidnkjbvi"
+git config --list
+git init
+git status 
+git add (file name/.)
+git commit -m "message"
+git log 
+git log --oneline
+git checkout hashcode file
+git reset HEAD file
+git checkout --file
