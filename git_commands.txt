@@ -11,3 +11,6 @@ git log --oneline
 git checkout hashcode file
 git reset HEAD file
 git checkout --file
+git remote add origin "https://github.."
+git pull origin master
+git push origin master
