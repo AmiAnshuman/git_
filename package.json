@@ -1,7 +1,7 @@
 {
     "name": "git_local",
     "version": "1.0.0",
-    "description": "\"this is a test dir to learn git and node\"",
+    "description": "",
     "main": "index.html",
     "scripts": {
         "start": "npm run lite",
@@ -12,13 +12,13 @@
         "type": "git",
         "url": "git+https://github.com/AmiAnshuman/git_.git"
     },
-    "author": "Anshuman CHatterjee",
+    "author": "",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/AmiAnshuman/git_/issues"
     },
     "homepage": "https://github.com/AmiAnshuman/git_#readme",
-    "devDependencies": {
+    "dependencies": {
         "lite-server": "^2.4.0"
     }
 }
